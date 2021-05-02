@@ -2,7 +2,7 @@
 
 |   	|   	|   	|
 |---	|---	|---	|
-| ![Profile View Counter](https://komarev.com/ghpvc/?username=WilliBoelke)  	|  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=WilliBoelke&show_icons=true&theme=blue-green) 	| ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliBoelke&theme=blue-green)|
+| ![Profile View Counter](https://komarev.com/ghpvc/?username=WilliBoelke)  	|  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=WilliBoelke&show_icons=true&theme=merko) 	| ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliBoelke&theme=merko)|
 
 
 
